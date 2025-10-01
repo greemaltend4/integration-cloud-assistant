@@ -4,7 +4,7 @@ const config = {
     aws: {
         accessKeyId: '',
         secretAccessKey: '',
-        region: ''
+        region: 'us-east-1' // Default AWS region
     },
     azure: {
         clientId: '',
