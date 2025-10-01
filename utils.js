@@ -5,8 +5,8 @@ function logDeploymentStatus(platform, status) {
         console.error('Platform must be provided.');
         return;
     }
-    if (!status) {
-        console.error('Status must be provided.');
+    if (typeof status !== 'string' || !status) {
+        console.error('Status must be a non-empty string.');
         return;
     }
     console.log(`Deployment status on ${platform}: ${status}`);
