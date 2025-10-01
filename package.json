@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Votre Nom",
+  "author": "New Author Name",
   "license": "MIT",
   "dependencies": {} 
 }
