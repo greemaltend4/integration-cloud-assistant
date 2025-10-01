@@ -7,13 +7,13 @@ const config = {
         region: 'us-west-2' // Updated AWS region
     },
     azure: {
-        clientId: '',
-        clientSecret: '',
-        tenantId: ''
+        clientId: 'YOUR_CLIENT_ID',
+        clientSecret: 'YOUR_CLIENT_SECRET',
+        tenantId: 'YOUR_TENANT_ID'
     },
     googleCloud: {
-        projectId: '',
-        keyFilename: ''
+        projectId: 'YOUR_PROJECT_ID',
+        keyFilename: 'path/to/your/keyfile.json'
     }
 };
 
