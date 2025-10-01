@@ -1,0 +1,12 @@
+{
+  "name": "integration-cloud-assistant",
+  "version": "1.0.0",
+  "description": "Un assistant pour la gestion d'intégrations cloud.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Votre Nom",
+  "license": "MIT",
+  "dependencies": {} 
+}
