@@ -2,8 +2,8 @@
 
 const config = {
     aws: {
-        accessKeyId: '',
-        secretAccessKey: '',
+        accessKeyId: 'YOUR_ACCESS_KEY_ID',
+        secretAccessKey: 'YOUR_SECRET_ACCESS_KEY',
         region: 'us-east-1' // Default AWS region
     },
     azure: {
