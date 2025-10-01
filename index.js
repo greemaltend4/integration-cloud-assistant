@@ -5,7 +5,7 @@ console.log('Welcome to the Cloud Assistant Integration!');
 function startAssistant() {
     console.log('Hello! Preparing to initialize the integration assistant...');
     console.log('Integration assistant is now starting...');
-    console.log('Ready to assist you!'); // Added greeting message
+    console.log('The assistant is ready to help you!'); // Updated greeting message for clarity
     // Integration logic here
 }
 
