@@ -1,7 +1,7 @@
-// Fonctions utilitaires pour gérer les intégrations
+// Utility functions for managing integrations
 
 function logDeploymentStatus(platform, status) {
-    console.log(`Statut du déploiement sur ${platform}: ${status}`);
+    console.log(`Deployment status on ${platform}: ${status}`);
 }
 
 module.exports = {
