@@ -1,10 +1,10 @@
-console.log('Bienvenue dans l'intégration Cloud Assistant!');
+console.log('Welcome to the Cloud Assistant Integration!');
 
-// Points d'entrée pour le déploiement des intégrations
+// Entry points for integration deployment
 
 function startAssistant() {
-    console.log('Démarrage de l'assistant d'intégration...');
-    // Logique d'intégration ici
+    console.log('Starting the integration assistant...');
+    // Integration logic here
 }
 
 startAssistant();
